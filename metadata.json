@@ -1,0 +1,7 @@
+{
+  "name": "demo可-图音乐",
+  "description": "Visual parameterization of sound. Upload an image to generate unique minimalist techno, then sculpt the sound in real-time using hand gestures.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
